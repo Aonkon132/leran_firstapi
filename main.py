@@ -39,3 +39,6 @@ def aiquest():
 @app.get("/text/1")
 def aiquest1():
     return{"text" : "welcome to FastAPI"}
+
+
+#cheek for updatae 
